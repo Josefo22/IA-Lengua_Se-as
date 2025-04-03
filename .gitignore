@@ -140,3 +140,4 @@ matriz_confusion.png
 # OS specific
 .DS_Store
 Thumbs.db
+.qodo
